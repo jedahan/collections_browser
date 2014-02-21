@@ -1,0 +1,30 @@
+{
+  "name": "collections-browser",
+  "version": "0.0.1",
+  "description": "bleh",
+  "dependencies": {
+    "coffee-script-redux": "*",
+    "brunch": "*",
+    "bower": "*",
+
+    "javascript-brunch": "*",
+    "coffee-script-redux-brunch": "*",
+    "less-brunch": "*",
+    "css-brunch": "*",
+    
+    "auto-reload-brunch": "*",
+    "uglify-js-brunch": ">= 1.0 < 1.8",
+    "clean-css-brunch": ">= 1.0 < 1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+     "start": "brunch watch --server",
+     "test": "brunch test"
+  },
+  "repository": { 
+    "type" : "git", 
+    "url" : "https://github.com/jedahan/.git"
+  },
+  "author": "jonathan@jedahan.com",
+  "license": "BSD"
+}
