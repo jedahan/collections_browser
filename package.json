@@ -12,9 +12,7 @@
     "less-brunch": "*",
     "css-brunch": "*",
     
-    "auto-reload-brunch": "*",
-    "uglify-js-brunch": ">= 1.0 < 1.8",
-    "clean-css-brunch": ">= 1.0 < 1.8"
+    "auto-reload-brunch": "*"
   },
   "devDependencies": {},
   "scripts": {

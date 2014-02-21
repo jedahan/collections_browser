@@ -1,7 +1,7 @@
 {
   "name": "collections_browser",
   "version": "0.0.1",
-  "main": "public/javascripts/app.js",
+  "main": "public/js/app.js",
   "dependencies": {
     "transparency": "~0.9.14",
     "jquery": "~2.1.0"
